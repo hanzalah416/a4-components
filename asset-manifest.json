@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/a4-hanzalah-qamar/static/js/main.f9d5b127.js",
-    "index.html": "/a4-hanzalah-qamar/index.html",
-    "main.f9d5b127.js.map": "/a4-hanzalah-qamar/static/js/main.f9d5b127.js.map"
+    "main.js": "/a4-components/static/js/main.f9d5b127.js",
+    "index.html": "/a4-components/index.html",
+    "main.f9d5b127.js.map": "/a4-components/static/js/main.f9d5b127.js.map"
   },
   "entrypoints": [
     "static/js/main.f9d5b127.js"
